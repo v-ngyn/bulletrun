@@ -3,6 +3,14 @@ Built on the Unity Game Engine, programmed in C#
 
 ------------------
 
+**Running the game**
+_____________________
+The SOURCE folder contains the source files. 
+- The main scripts for the game is located in bulletrun\SOURCE\bullet run\Assets\Scripts
+The BUILD.zip folder contains the executable to run the game on your computer.
+
+------------------
+
 Current state of the game (12/29/2022)
 - I was given a 2-week window to build this project from scratch.
 - In its current state, the game can easily be polished and expanded into something greater.
@@ -18,11 +26,3 @@ Current state of the game (12/29/2022)
 - In this game, you only get one life; you get hit once, it is game over.
   
 ![Screenshot_1](https://github.com/v-ngyn/bulletrun/assets/133724766/e18071cc-f2ce-4696-88f4-bf78aa84a92f)
-
-
-------------------
-
-The SOURCE folder contains the source files. 
-The main scripts for the game is located in bulletrun\SOURCE\bullet run\Assets\Scripts
-
-The BUILD.zip folder contains the executable to run the game on your computer.
